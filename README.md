@@ -9,6 +9,7 @@
 
 Опубликованные презентации:
 
+- `agent-self-reflection` — Саморефлексия ИИ-агентов: у агентов та же картина команды, что у руководителя
 - `hermes-bridge-hq` — Штаб корпоративных агентов в кармане: Claude Code с телефона
 - `claude-desktop-zai-macos` — Claude Desktop с Китайскими моделями
 - `po-workspace-bft-plugin` — БФТ под управлением руководителя
